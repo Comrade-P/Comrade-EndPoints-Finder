@@ -33,5 +33,7 @@ venv\Scripts\activate     # Windows
 # Install the package
 pip install -e .
 
-# command to RUN
-comrade_endpoints https://example.com
+After installation, you can run the tool from anywhere in the terminal:-
+
+# Usage(How To Run)
+comrade-endpoints https://example.com
