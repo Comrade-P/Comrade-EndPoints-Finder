@@ -21,21 +21,21 @@ A terminal-based tool to discover hidden endpoints and URLs on a target website.
 ### Using GitHub
 
 ```bash
-# Clone the repository
+# Clone the repository (STEP 1)
 git clone https://github.com/Comrade-P/Comrade-EndPoints-Finder.git
 
-# cd Comrade-EndPoints-Finder
+# cd Comrade-EndPoints-Finder(STEP 2)
 
-# Create a virtual environment (recommended)
+# Create a virtual environment (recommended)(STEP 3-IF NEEDED)
 python3 -m venv venv
 source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
 
-# Install the package
+# Install the package(STEP-4)
 pip install -e .
 
 After installation, you can run the tool from anywhere in the terminal:-
 
-# Usage(How To Run) Run inside this folder:-Comrade-EndPoints-Finder
+# Usage(How To Run) Run inside this folder:-Comrade-EndPoints-Finder(STEP 5)
 
 comrade_endpoints https://example.com
