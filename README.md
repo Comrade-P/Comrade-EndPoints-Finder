@@ -36,4 +36,4 @@ pip install -e .
 After installation, you can run the tool from anywhere in the terminal:-
 
 # Usage(How To Run)
-comrade-endpoints https://example.com
+comrade_endpoints https://example.com
