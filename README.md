@@ -36,6 +36,6 @@ pip install -e .
 
 After installation, you can run the tool from anywhere in the terminal:-
 
-# Usage(How To Run) Run inside this folder:-Comrade-EndPoints-Finder(STEP 5)
+# Usage(How To Run) Run inside this folder:-Comrade-EndPoints-Finder(STEP 5)--->[If needed/faced any trouble run in virtual env through(source venv/bin/activate)]
 
 comrade_endpoints https://example.com
