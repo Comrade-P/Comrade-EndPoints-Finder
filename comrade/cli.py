@@ -132,7 +132,36 @@ wordlist = [
 
     "setup", "install", "installer", "configuration", "configure", "init",
     "initiate", "upload.php", "download.php", "support/ticket", "tickets",
-    "api.php", "rest.php", "svc", "service.php", "gateway", "gateway/payment"
+    "api.php", "rest.php", "svc", "service.php", "gateway", "gateway/payment",
+    
+    "wp-content", "wp-admin/admin-ajax.php", "wp-includes", "wp-config.php", "xmlrpc.php",
+    "administrator/login", "administrator/settings", "admin/config.php", "admin/console",
+    "admin/tools.php", "admin/reports.php", "user/profile", "user/settings", "account/profile",
+    "auth/login.php", "auth/register.php", "auth/logout.php", "session/login", "session/logout",
+    "sessions/create", "sessions/destroy", "api/auth", "api/login", "api/register", "api/logout",
+    "api/users", "api/admin", "api/dashboard", "api/v1/users", "api/v1/admin", "api/v1/login",
+    "api/v2/users", "api/v2/admin", "api/v2/login", "graphql/endpoint", "graphql/query",
+    "graphql/mutations", "rest/users", "rest/admin", "rest/auth", "rest/products", "rest/orders",
+    "debug/logs", "debug/status", "dev/logs", "dev/status", "staging/logs", "staging/status",
+    "test/logs", "test/status", "monitoring/logs", "monitoring/metrics", "monitoring/health",
+    "healthcheck/ready", "healthcheck/live", "status/health", "status/uptime", "metrics/usage",
+    "uploads/images", "uploads/files", "uploads/documents", "downloads/images", "downloads/files",
+    "downloads/documents", "media/images", "media/files", "media/videos", "backup/db", "backup/files",
+    "backup/config", "config/settings", "config/database", "config/api", "config/app", "setup/install",
+    "setup/configure", "setup/init", "install.php", "install/setup.php", "installer.php", "init.php",
+    "configuration.php", "configure.php", "gateway/payment", "gateway/checkout", "payment/ipn",
+    "payment/webhook", "billing/invoice", "billing/subscription", "orders/cart", "orders/history",
+    "products/list", "products/view", "products/add", "products/edit", "shop/cart", "shop/checkout",
+    "shop/orders", "search/products", "search/users", "search/admin", "filter/products", "filter/users",
+    "filter/orders", "category/list", "category/add", "category/edit", "tags/list", "tags/add",
+    "tags/edit", "support/ticket", "support/faq", "support/contact", "help/docs", "help/tutorials",
+    "webhooks/stripe", "webhooks/paypal", "webhooks/github", "integration/google", "integration/facebook",
+    "integration/github", "oauth/callback", "oauth/authorize", "oauth/token", "sso/login", "sso/logout",
+    "saml/acs", "openid/connect", "mobile/app", "mobile/manifest.json", "api-docs/swagger", "api-docs/redoc",
+    "docs/index", "docs/setup", "docs/api", "logs/access.log", "logs/error.log", "logs/debug.log",
+    "system/info", "system/status", "system/metrics", "adminpanel/home", "adminpanel/settings",
+    "adminpanel/users", "adminpanel/logs", "console/dashboard", "console/tools"
+]
 ]
 
 
