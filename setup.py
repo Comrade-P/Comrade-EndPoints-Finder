@@ -1,18 +1,16 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="comrade-endpoints",
+    name="comrade-web-ip",
     version="0.1",
-    packages=find_packages(),
+    packages=find_packages(),  # finds comrade_web_ip folder
     install_requires=[
-        "requests",
-        "beautifulsoup4",
         "pyfiglet",
         "colorama"
     ],
     entry_points={
         "console_scripts": [
-            "comrade_endpoints=comrade.cli:main",  
+            "comrade_web_ip=comrade_web_ip.cli:main",
         ],
     },
 )
