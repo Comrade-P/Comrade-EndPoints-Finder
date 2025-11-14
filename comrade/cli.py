@@ -162,7 +162,7 @@ wordlist = [
     "system/info", "system/status", "system/metrics", "adminpanel/home", "adminpanel/settings",
     "adminpanel/users", "adminpanel/logs", "console/dashboard", "console/tools"
 ]
-]
+
 
 
 
